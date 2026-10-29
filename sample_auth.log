@@ -1,0 +1,7 @@
+Oct 28 09:15:21 kali sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 52341 ssh2
+Oct 28 09:16:10 kali sshd[1235]: Failed password for root from 192.168.1.10 port 52342 ssh2
+Oct 28 09:17:05 kali sshd[1236]: Accepted password for shahriar from 192.168.1.20 port 52343 ssh2
+Oct 28 09:18:30 kali sshd[1237]: Failed password for root from 192.168.1.15 port 52344 ssh2
+Oct 28 09:19:12 kali sshd[1238]: Failed password for admin from 192.168.1.10 port 52345 ssh2
+Oct 28 09:20:45 kali sshd[1239]: Accepted password for shahriar from 192.168.1.20 port 52346 ssh2
+Oct 28 09:21:30 kali sshd[1240]: Failed password for test from 192.168.1.15 port 52347 ssh2

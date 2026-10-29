@@ -1,0 +1,24 @@
+2026-10-28 20:30:06,062 - INFO -  192.168.1.10-3 failed attempts
+2026-10-28 20:30:06,062 - INFO -  192.168.1.15-2 failed attempts
+2026-10-28 20:30:06,063 - INFO -  CSV report generated Successfully
+2026-10-28 20:31:21,332 - INFO -  192.168.1.10-3 failed attempts
+2026-10-28 20:31:21,332 - INFO -  192.168.1.15-2 failed attempts
+2026-10-28 20:31:21,333 - INFO -  CSV report generated Successfully
+2026-10-28 20:40:12,212 - INFO -  192.168.1.10-3 failed attempts
+2026-10-28 20:40:12,212 - INFO -  192.168.1.15-2 failed attempts
+2026-10-28 20:40:12,212 - INFO -  logg report generated Successfully
+2026-10-28 20:42:08,408 - INFO -  192.168.1.10 - 3 failed login attempts
+2026-10-28 20:42:08,408 - INFO -  192.168.1.15 - 2 failed login attempts
+2026-10-28 20:42:08,425 - INFO -  CSV report generated Successfully
+2026-10-28 20:44:35,487 - INFO -  Total log entries: 7 
+2026-10-28 20:44:35,488 - INFO -  Failed login attempts: 5 
+2026-10-28 20:44:35,488 - INFO -  Successful login attempts: 2 
+2026-10-28 20:44:35,488 - INFO -  192.168.1.10 - 3 failed login attempts
+2026-10-28 20:44:35,488 - INFO -  192.168.1.15 - 2 failed login attempts
+2026-10-28 20:44:35,488 - INFO -  CSV report generated Successfully
+2026-10-29 20:04:03,328 - INFO -  Total log entries: 7 
+2026-10-29 20:04:03,346 - INFO -  Failed login attempts: 5 
+2026-10-29 20:04:03,346 - INFO -  Successful login attempts: 2 
+2026-10-29 20:04:03,346 - INFO -  192.168.1.10 - 3 failed login attempts
+2026-10-29 20:04:03,346 - INFO -  192.168.1.15 - 2 failed login attempts
+2026-10-29 20:04:03,346 - INFO -  Log analysis completed Successfully
